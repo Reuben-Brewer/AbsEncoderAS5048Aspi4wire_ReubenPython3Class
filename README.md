@@ -4,6 +4,6 @@ Code to read angles from the Absolute Magnetic Rotary Encoder AMS 5048A over 4-w
 
 Please see details for each OS within the following documents:
 
-README_IngeniaBLDC_ABSencoderAS5048streamer_ReubenPython3Class__Windows_FTDI-C232HM.txt
+README_ABSencoderAS5048streamer_ReubenPython3Class__Windows_FTDI-C232HM.txt
 
-README_IngeniaBLDC_ABSencoderAS5048streamer_ReubenPython3Class__RaspberryPi.txt
+README_ABSencoderAS5048streamer_ReubenPython3Class__RaspberryPi.txt
