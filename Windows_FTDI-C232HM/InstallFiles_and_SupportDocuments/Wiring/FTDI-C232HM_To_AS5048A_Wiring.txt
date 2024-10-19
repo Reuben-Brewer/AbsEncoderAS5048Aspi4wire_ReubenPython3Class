@@ -1,0 +1,11 @@
+C232HM Pin 1 (Red), VCC/5V <==> AS5048A 5V
+
+C232HM Pin 2 (Orange), TCK (SPI Clock) <==> AS5048A SCK
+
+C232HM Pin 3 (Yellow), TDO (SPI Data Output) <==> AS5048A MOSI
+
+C232HM Pin 4 (Green), TDI (SPI Data Input) <==> AS5048A MISO
+
+C232HM Pin 5 (Brown), TDI (SPI Data Chip Select) <==> AS5048A CSn
+
+C232HM Pin 10 (Black), GND <==> AS5048A GND
