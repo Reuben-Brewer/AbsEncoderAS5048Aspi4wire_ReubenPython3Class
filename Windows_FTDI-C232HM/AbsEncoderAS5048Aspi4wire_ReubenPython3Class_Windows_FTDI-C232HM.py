@@ -6,7 +6,7 @@ reuben.brewer@gmail.com
 www.reubotics.com
 
 Apache 2 License
-Software Revision C, 10/19/2024
+Software Revision D, 10/27/2024
 
 Verified working on: Python 3.12 for Windows 10, 11 64-bit.
 '''
@@ -208,7 +208,8 @@ if __name__ == '__main__':
 
     ##########################################################################################################
     global FTDI_USBmpsseConverterSerialNumber
-    FTDI_USBmpsseConverterSerialNumber = "FT0NF9GG" #Unicorn, change this to your unique device!
+    FTDI_USBmpsseConverterSerialNumber = "FT0NF9GG" #5V #Unicorn, change this to your unique device!
+    FTDI_USBmpsseConverterSerialNumber = "FT0J4WOW" #3.3V
 
     InitializeSPI()
     ##########################################################################################################
